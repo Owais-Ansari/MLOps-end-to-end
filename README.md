@@ -1,2 +1,2 @@
 # MLOps-end-to-end
-This repository demonstrate the flow MLops end to end development and deployment
+This repository demonstrates the flow of MLops end-to-end development and deployment
